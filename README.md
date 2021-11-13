@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prajapati1020
 - 👀 I’m interested in web development and IT  administrative support
-- 🌱 I’m currently learning Google IT support
+- 🌱 I’m currently learning Google IT support professional certification
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
