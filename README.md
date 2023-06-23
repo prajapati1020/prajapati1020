@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajapati1020
-- 👀 I’m interested in web development and IT  administrative support
+- 👀 I’m interested in Full Stack Development and Automation testing
 - 🌱 I’m currently learning new stuff daily growing daily
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arjitprajapati@gmail.com
