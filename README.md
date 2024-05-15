@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prajapati1020
-- 👀 I’m interested in Full Stack Development and Automation testing
+- 👀 I’m interested in Full Stack Development (NextJs ,ReactJs ,NPM ,NodeJs)
 - 🌱 I’m currently learning new stuff daily growing daily
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me arjitprajapati@gmail.com
+
+  
 
 <!---
 prajapati1020/prajapati1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
