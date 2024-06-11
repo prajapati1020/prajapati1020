@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajapati1020
-- 👀 I’m interested in Full Stack Development (NextJs ,ReactJs ,NPM ,NodeJs)
+- 👀 I’m interested in Full Stack Development FrontEnd(NextJs ,ReactJs) BackEnd(JAVA ,SPRING BOOT ,MICROSERVICES)
 - 🌱 I’m currently learning new stuff daily growing daily
 
   
